@@ -495,7 +495,7 @@ function Home() {
               智能助手
             </div>
             <iframe
-              src="https://www.kkbot.co/kkbot/embed/?info=bcfade79b82e74e846090d8b2472b586a9607cae8a65d53f031d932074e5a46fc8a577d6e50cfa2c706d3e39f1830252"
+              src="https://cloud.fastgpt.cn/chat/share?shareId=5bkj5ps3ishxtxeg8bbermjm"
               style={{
                 width: "100%",
                 height: "calc(100% - 49px)", // 减去顶部栏高度
